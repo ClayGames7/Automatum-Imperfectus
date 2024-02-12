@@ -25,7 +25,6 @@
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/MJ/LYN3KFSLDFET0H4R4QA9WK.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OC/6QBECPUWZX0A7KBRQFRI0M.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset",
-				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/WV/FF6LPDZ0FKKLS0GFFG7RY1.uasset",
@@ -44,7 +43,11 @@
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/G1/M9G7XU382QL26S1P4TC8FY.uasset",
-				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/H9/0I4EQ9RW1ZJIXODKZYK6FU.uasset"
+				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/H9/0I4EQ9RW1ZJIXODKZYK6FU.uasset",
+				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/Dialogue/E_DialogueBase.uasset",
+				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/Dialogue/AC_DialogueBase.uasset",
+				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/UI/W_Dialogue.uasset",
+				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8.uasset"
 			]
 		}
 	]
