@@ -1,2 +1,0 @@
-# Ignore these files
-/ C:\Users\b1064845\Documents\GitHub\Automatum-Imperfectus\FYP_Project\Intermediate
