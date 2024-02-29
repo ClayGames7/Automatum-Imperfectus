@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Maps/TopDownMap.umap",
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/FY/45JOQ38QR4K2P62IGCH99F.uasset",
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/NPC/Test_Level/NPC_BOB.uasset",
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/NPC/NPC_BOB.uasset",
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/Dialogue/Test_Level/AC_DialogueBOB.uasset",
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/Dialogue/AC_DialogueBOB.uasset",
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/Dialogue/AC_DialogueBase.uasset",
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/7W/2HXC9AEE1TTB5XKP22FSUL.uasset",
+				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/NPC/NPC_Base.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Input/Actions/IA_WASD.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Input/IMC_Default.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
@@ -59,9 +69,6 @@
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/Colour.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/NPC/BPI_Interactable.uasset",
 				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/Colour.uasset",
-				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Maps/TopDownMap.umap",
-				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"C:/Users/b1064845/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/FY/45JOQ38QR4K2P62IGCH99F.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8.uasset"
 			]
 		}
