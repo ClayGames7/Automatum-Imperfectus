@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\clayt\\documents\\github\\automatum-imperfectus\\fyp_project\\intermediate\\source\\fyp_project.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\clayt\\documents\\github\\automatum-imperfectus\\fyp_project\\intermediate\\build\\win64\\x64\\fyp_project\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\clayt\\documents\\github\\automatum-imperfectus\\fyp_project\\intermediate\\build\\win64\\x64\\unrealgame\\development\\fyp_project\\definitions.fyp_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
