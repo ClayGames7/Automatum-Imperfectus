@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/clayt/Documents/Automatum-Imperfectus/FYP_Project/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/clayt/Documents/Automatum-Imperfectus/FYP_Project/Content/LevelDesign/Levels/Gameplay/Intro/Lvl_Intro.umap",
+				"C:/Users/clayt/Documents/Automatum-Imperfectus/FYP_Project/Content/UI/MainMenu/MainMenu_SettingsControls.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Input/Actions/IA_WASD.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Input/IMC_Default.uasset",
 				"C:/Users/clayt/Documents/GitHub/Automatum-Imperfectus/FYP_Project/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
